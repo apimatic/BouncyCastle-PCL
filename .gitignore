@@ -7,3 +7,6 @@
 /bouncy-castle-hmac-sha1-pcl/obj/
 *.suo
 *.nupkg
+/.vs/config/applicationhost.config
+*.targets
+/bouncy-castle-hmac-sha1-pcl/project.lock.json
